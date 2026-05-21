@@ -1,0 +1,1 @@
+A real-time location tracking system that uses phone number authentication and GPS-based mobile services to securely share live location data between authorized users. The application enables continuous location updates, geofencing alerts, route monitoring, and emergency location sharing while ensuring user consent, encrypted communication, and privacy protection.”
